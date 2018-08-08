@@ -5,43 +5,25 @@
     <title>Ex6</title>
 </head>
 <body>
-<table border = "1">
-<tr>
-    <td>Column 1</td>
-<td>Column 2</td>
-<td>Column 3</td>
-<td>Column 4</td>
-<td>Column 5</td>
-<td>Column 6</td>
-</tr>
+<form>
+    <fieldset>
+        <legend>old or new application</legend>
 
-    <tr>
+        <div>
+            <input type="radio" id="old" name="application" checked />
+            <label for="old">old</label>
+        </div>
 
-        <td> <label for="display-name"> Name:
-            <span class="warning">*(Allows only letters.)</span>
-        </label>
-            <input type="text"
-                   id="display-Last name"
-                   name="ip-display"</td>
+        <div>
+            <input type="radio" id="new" name="application" />
+            <label for="new">new</label>
+        </div>
 
 
-        <td><label for="display-Last name"> Last Name:
-            <span class="warning">*(Allows only letters.)</span>
-        </label>
-            <input type="text"
-                   id="display-name"
-                   name="ip-display"></td>
-    </tr>
+    </fieldset>
+</form>
 
 
 
-
-
-
-
-
-
-
-</table>
 </body>
 </html>
