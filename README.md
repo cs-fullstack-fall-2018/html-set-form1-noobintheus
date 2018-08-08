@@ -14,3 +14,13 @@ Using the code above, allow the user to check a box if they agree all informatio
 
 ### Exercise 9
 Using the code above, create a submit button to allow the user to submit everything.
+
+<!-- 
+
+	KEY: Where are my comments?! Please get in the habit of including at least one comment at the top of every submission saying what the code is doing. Can be brief, but needs to be there :-) 
+
+	KEY: Great effort though Man, but the idea was that each exercise would build on prior so you would end up with 
+	a single form.
+-->
+
+	
